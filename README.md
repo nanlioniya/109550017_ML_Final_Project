@@ -1,10 +1,3 @@
-# 109550017_ML_Final_Project
-## 版本要求
-<ol>
-  
-</ol>
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -57,7 +50,7 @@
 
 ### Installation
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/nanlioniya/109550017_ML_Final_Project.git
    ```
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
