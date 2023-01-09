@@ -1,4 +1,4 @@
-## ML Final Project
+# Machine Learning FinalProject
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
